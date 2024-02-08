@@ -7,7 +7,7 @@ align-content: center
 background.solid: #808080
 
 -- lib.button: Button
-button1: Extra Large
+button1: Extra Large Button
 link1: http://button1.com
 button2: Large Button
 link2: http://button2.com
